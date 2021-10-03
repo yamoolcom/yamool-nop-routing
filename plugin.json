@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Yamool",
+  "FriendlyName": "Yamool URL Routing",
+  "SystemName": "Yamool.NopRouting",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20", "4.30", "4.40" ],
+  "Author": "yamool.com",
+  "DisplayOrder": 1,
+  "FileName": "Yamool.Nop.Plugin.Routing.dll",
+  "Description": "Rewrite the default URLs for products, collections, topics and others like blog, news etc."
+}
